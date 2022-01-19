@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crepe-thr
-- 👀 I’m interested in devrlopement
+- 👀 I’m interested in developement
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate  video game
 - 📫 How to reach me crepeaunuttella2000@gmail.com
